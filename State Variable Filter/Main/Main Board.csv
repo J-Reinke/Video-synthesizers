@@ -1,7 +1,3 @@
-"Source:","/Users/johnreinke/Documents/Kicad projects/lt1228 filter/main board/lt1228 filter.kicad_sch"
-"Date:","Wednesday, October 02, 2024 at 09:17:26 PM"
-"Tool:","Eeschema (6.0.11-0)"
-"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
 "Component Count:","73"
 "Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
 "C1, C2, ","2","C","C","Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm","Unpolarized capacitor",""
